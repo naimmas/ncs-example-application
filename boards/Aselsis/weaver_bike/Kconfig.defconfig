@@ -1,0 +1,6 @@
+if BOARD_WEAVER_BIKE
+
+config BT_CTLR
+	default BT
+
+endif # BOARD_WEAVER_BIKE

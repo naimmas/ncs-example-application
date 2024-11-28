@@ -1,0 +1,2 @@
+# Load Sysbuild board Kconfig descriptions.
+osource "/Users/naim/Desktop/Projects/Work/ASELSIS/WEAVER_BIKE/my-workspace/ncs-example-application/boards/Aselsis/weaver_bike/Kconfig.sysbuild"

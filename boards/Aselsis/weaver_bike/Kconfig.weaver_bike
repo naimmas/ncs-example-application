@@ -1,0 +1,2 @@
+config BOARD_WEAVER_BIKE
+	select SOC_NRF52833_QDAA

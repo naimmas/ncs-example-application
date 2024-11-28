@@ -1,0 +1,2 @@
+"nrf":"/Users/naim/Desktop/Projects/Work/ASELSIS/WEAVER_BIKE/my-workspace/nrf":"/Users/naim/Desktop/Projects/Work/ASELSIS/WEAVER_BIKE/my-workspace/nrf/sysbuild"
+"mcuboot":"/Users/naim/Desktop/Projects/Work/ASELSIS/WEAVER_BIKE/my-workspace/bootloader/mcuboot":"/Users/naim/Desktop/Projects/Work/ASELSIS/WEAVER_BIKE/my-workspace/bootloader/mcuboot/boot/zephyr/sysbuild"
